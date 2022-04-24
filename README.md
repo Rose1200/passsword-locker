@@ -6,10 +6,10 @@ This project is a python application that manages login and signup credentials o
 # Users story
 The user would like to.... :
 
-<li>To create an account for the application or log into the application.<li>
-<li>store my existing acounts login details for various accounts that i have registered for.<li>
-<li>Generate new password for an account that i haven't registered for and store it with the account name.<li>
-<li>Delete stored account login details that i do now want anymore.<li>
+<li>To create an account for the application or log into the application.
+store my existing acounts login details for various accounts that i have registered for.
+Generate new password for an account that i haven't registered for and store it with the account name.
+Delete stored account login details that i do now want anymore.
 <li>Copy my credentials to the clipboard<li>
 
 
