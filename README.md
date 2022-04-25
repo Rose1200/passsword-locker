@@ -19,8 +19,7 @@ The application requires the following installations to operate
 
 # Cloning
 Open Terminal {Ctrl+Alt+T}
-
-git clone https://github.com/Owiti-Charles/Password-Locker.git
+git clone https://github.com/Rose1200/passsword-locker.git
 
 cd Password-Locker
 
