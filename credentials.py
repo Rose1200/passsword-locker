@@ -40,4 +40,17 @@ def find_by_account(cls, name):
                 return account
 
 
+@classmethod
+def delete_credentials(cls, name):
+        '''
+        deletes an account's saved credentials from the credentials_list.
+        '''
+
+        for account in cls.credentials_list:
+            if account.account_name == name:
+                Credentials.credentials_list.remove(account)
+
+           
+
+
 
